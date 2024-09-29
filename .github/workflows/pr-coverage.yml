@@ -15,4 +15,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Go cover diff
-      uses: kskitek/coverdiff@v0.4.0
+      uses: kskitek/coverdiff@efb777bf416d1719b76dd146ae8a1ea535f8eff3
